@@ -1,0 +1,2563 @@
+******************************************************************
+ HELIOS base
+ Created by Hidehisa Akiyama and Hiroki Shimora
+ Copyright 2000-2007.  Hidehisa Akiyama
+ Copyright 2007-2011.  Hidehisa Akiyama and Hiroki Shimora
+ All rights reserved.
+******************************************************************
+PING localhost (127.0.0.1) 56(84) bytes of data.
+64 bytes from localhost (127.0.0.1): icmp_seq=1 ttl=64 time=0.046 ms
+
+--- localhost ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.046/0.046/0.046/0.000 ms
+******************************************************************
+ librcsc 2023
+ Copyright 2000 - 2007. Hidehisa Akiyama.
+ Copyright 2007 - 2011. Hidehisa Akiyama and Hiroki Shimora
+ Copyright 2011 -  Hidehisa Akiyama, Hiroki Shimora
+   Takuya Fukushima (2019-)
+ All rights reserved.
+******************************************************************
+*****************************************************************
+ This program is based on agent2d created by Hidehisa Akiyama.
+ Copyright 2006 - 2011. Hidehisa Akiyama and Hiroki Shimora.
+ All rights reserved.
+*****************************************************************
+HELIOS_base: init ok.  unum: 1 side: l
+HELIOS_base 1: [-1, 0] (v18+) force synch see mode.
+HELIOS_base 1:  KickTable created.
+HELIOS_base 1: [-1, 0] set synch see mode.
+******************************************************************
+ librcsc 2023
+ Copyright 2000 - 2007. Hidehisa Akiyama.
+ Copyright 2007 - 2011. Hidehisa Akiyama and Hiroki Shimora
+ Copyright 2011 -  Hidehisa Akiyama, Hiroki Shimora
+   Takuya Fukushima (2019-)
+ All rights reserved.
+******************************************************************
+******************************************************************
+ librcsc 2023
+ Copyright 2000 - 2007. Hidehisa Akiyama.
+ Copyright 2007 - 2011. Hidehisa Akiyama and Hiroki Shimora
+ Copyright 2011 -  Hidehisa Akiyama, Hiroki Shimora
+   Takuya Fukushima (2019-)
+ All rights reserved.
+******************************************************************
+******************************************************************
+ librcsc 2023
+ Copyright 2000 - 2007. Hidehisa Akiyama.
+ Copyright 2007 - 2011. Hidehisa Akiyama and Hiroki Shimora
+ Copyright 2011 -  Hidehisa Akiyama, Hiroki Shimora
+   Takuya Fukushima (2019-)
+ All rights reserved.
+******************************************************************
+******************************************************************
+ librcsc 2023
+ Copyright 2000 - 2007. Hidehisa Akiyama.
+ Copyright 2007 - 2011. Hidehisa Akiyama and Hiroki Shimora
+ Copyright 2011 -  Hidehisa Akiyama, Hiroki Shimora
+   Takuya Fukushima (2019-)
+ All rights reserved.
+******************************************************************
+******************************************************************
+ librcsc 2023
+ Copyright 2000 - 2007. Hidehisa Akiyama.
+ Copyright 2007 - 2011. Hidehisa Akiyama and Hiroki Shimora
+ Copyright 2011 -  Hidehisa Akiyama, Hiroki Shimora
+   Takuya Fukushima (2019-)
+ All rights reserved.
+******************************************************************
+******************************************************************
+ librcsc 2023
+ Copyright 2000 - 2007. Hidehisa Akiyama.
+ Copyright 2007 - 2011. Hidehisa Akiyama and Hiroki Shimora
+ Copyright 2011 -  Hidehisa Akiyama, Hiroki Shimora
+   Takuya Fukushima (2019-)
+ All rights reserved.
+******************************************************************
+******************************************************************
+ librcsc 2023
+ Copyright 2000 - 2007. Hidehisa Akiyama.
+ Copyright 2007 - 2011. Hidehisa Akiyama and Hiroki Shimora
+ Copyright 2011 -  Hidehisa Akiyama, Hiroki Shimora
+   Takuya Fukushima (2019-)
+ All rights reserved.
+******************************************************************
+******************************************************************
+ librcsc 2023
+ Copyright 2000 - 2007. Hidehisa Akiyama.
+ Copyright 2007 - 2011. Hidehisa Akiyama and Hiroki Shimora
+ Copyright 2011 -  Hidehisa Akiyama, Hiroki Shimora
+   Takuya Fukushima (2019-)
+ All rights reserved.
+******************************************************************
+******************************************************************
+ librcsc 2023
+ Copyright 2000 - 2007. Hidehisa Akiyama.
+ Copyright 2007 - 2011. Hidehisa Akiyama and Hiroki Shimora
+ Copyright 2011 -  Hidehisa Akiyama, Hiroki Shimora
+   Takuya Fukushima (2019-)
+ All rights reserved.
+******************************************************************
+******************************************************************
+ librcsc 2023
+ Copyright 2000 - 2007. Hidehisa Akiyama.
+ Copyright 2007 - 2011. Hidehisa Akiyama and Hiroki Shimora
+ Copyright 2011 -  Hidehisa Akiyama, Hiroki Shimora
+   Takuya Fukushima (2019-)
+ All rights reserved.
+******************************************************************
+******************************************************************
+ librcsc 2023
+ Copyright 2000 - 2007. Hidehisa Akiyama.
+ Copyright 2007 - 2011. Hidehisa Akiyama and Hiroki Shimora
+ Copyright 2011 -  Hidehisa Akiyama, Hiroki Shimora
+   Takuya Fukushima (2019-)
+ All rights reserved.
+******************************************************************
+*****************************************************************
+ This program is based on agent2d created by Hidehisa Akiyama.
+ Copyright 2006 - 2011. Hidehisa Akiyama and Hiroki Shimora.
+ All rights reserved.
+*****************************************************************
+HELIOS_base coach: [-1, 0] recv (ok eye on)
+*****************************************************************
+ This program is based on agent2d created by Hidehisa Akiyama.
+ Copyright 2006 - 2011. Hidehisa Akiyama and Hiroki Shimora.
+ All rights reserved.
+*****************************************************************
+*****************************************************************
+ This program is based on agent2d created by Hidehisa Akiyama.
+ Copyright 2006 - 2011. Hidehisa Akiyama and Hiroki Shimora.
+ All rights reserved.
+*****************************************************************
+*****************************************************************
+ This program is based on agent2d created by Hidehisa Akiyama.
+ Copyright 2006 - 2011. Hidehisa Akiyama and Hiroki Shimora.
+ All rights reserved.
+*****************************************************************
+*****************************************************************
+ This program is based on agent2d created by Hidehisa Akiyama.
+ Copyright 2006 - 2011. Hidehisa Akiyama and Hiroki Shimora.
+ All rights reserved.
+*****************************************************************
+*****************************************************************
+ This program is based on agent2d created by Hidehisa Akiyama.
+ Copyright 2006 - 2011. Hidehisa Akiyama and Hiroki Shimora.
+ All rights reserved.
+*****************************************************************
+*****************************************************************
+ This program is based on agent2d created by Hidehisa Akiyama.
+ Copyright 2006 - 2011. Hidehisa Akiyama and Hiroki Shimora.
+ All rights reserved.
+*****************************************************************
+*****************************************************************
+ This program is based on agent2d created by Hidehisa Akiyama.
+ Copyright 2006 - 2011. Hidehisa Akiyama and Hiroki Shimora.
+ All rights reserved.
+*****************************************************************
+*****************************************************************
+ This program is based on agent2d created by Hidehisa Akiyama.
+ Copyright 2006 - 2011. Hidehisa Akiyama and Hiroki Shimora.
+ All rights reserved.
+*****************************************************************
+*****************************************************************
+ This program is based on agent2d created by Hidehisa Akiyama.
+ Copyright 2006 - 2011. Hidehisa Akiyama and Hiroki Shimora.
+ All rights reserved.
+*****************************************************************
+*****************************************************************
+ This program is based on agent2d created by Hidehisa Akiyama.
+ Copyright 2006 - 2011. Hidehisa Akiyama and Hiroki Shimora.
+ All rights reserved.
+*****************************************************************
+HELIOS_base: init ok.  unum: 2 side: l
+HELIOS_base 2: [-1, 0] (v18+) force synch see mode.
+HELIOS_base: init ok.  unum: 3 side: l
+HELIOS_base 3: [-1, 0] (v18+) force synch see mode.
+HELIOS_base: init ok.  unum: 4 side: l
+HELIOS_base 4: [-1, 0] (v18+) force synch see mode.
+HELIOS_base: init ok.  unum: 5 side: l
+HELIOS_base 5: [-1, 0] (v18+) force synch see mode.
+HELIOS_base: init ok.  unum: 6 side: l
+HELIOS_base 6: [-1, 0] (v18+) force synch see mode.
+HELIOS_base: init ok.  unum: 7 side: l
+HELIOS_base 7: [-1, 0] (v18+) force synch see mode.
+HELIOS_base: init ok.  unum: 8 side: l
+HELIOS_base 8: [-1, 0] (v18+) force synch see mode.
+HELIOS_base: init ok.  unum: 9 side: l
+HELIOS_base 9: [-1, 0] (v18+) force synch see mode.
+HELIOS_base: init ok.  unum: 10 side: l
+HELIOS_base 10: [-1, 0] (v18+) force synch see mode.
+HELIOS_base: init ok.  unum: 11 side: l
+HELIOS_base 11: [-1, 0] (v18+) force synch see mode.
+HELIOS_base 3:  KickTable created.
+HELIOS_base 3: [-1, 0] set synch see mode.
+HELIOS_base 7:  KickTable created.
+HELIOS_base 7: [-1, 0] set synch see mode.
+HELIOS_base 6:  KickTable created.
+HELIOS_base 6: [-1, 0] set synch see mode.
+HELIOS_base 5:  KickTable created.
+HELIOS_base 5: [-1, 0] set synch see mode.
+HELIOS_base 4:  KickTable created.
+HELIOS_base 4: [-1, 0] set synch see mode.
+HELIOS_base 10:  KickTable created.
+HELIOS_base 10: [-1, 0] set synch see mode.
+HELIOS_base 9:  KickTable created.
+HELIOS_base 9: [-1, 0] set synch see mode.
+HELIOS_base 11:  KickTable created.
+HELIOS_base 11: [-1, 0] set synch see mode.
+HELIOS_base 2:  KickTable created.
+HELIOS_base 2: [-1, 0] set synch see mode.
+HELIOS_base 8:  KickTable created.
+HELIOS_base 8: [-1, 0] set synch see mode.
+id speed step inc  power  stam  karea
+ 0 1.000   6  45.0 100.0  55.0  1.085
+ 1 0.976   5  40.4 100.0  59.6  0.993
+ 2 0.893   7  51.7 100.0  48.3  1.011
+ 3 0.947   5  42.9 100.0  57.1  1.066
+ 4 0.769   5  46.3 100.0  53.7  1.147
+ 5 0.930   5  43.2 100.0  56.8  0.988
+ 6 0.881   5  47.0 100.0  53.0  1.121
+ 7 0.877   6  49.7 100.0  50.3  1.054
+ 8 0.874   4  41.6 100.0  58.4  1.144
+ 9 0.971   5  44.0 100.0  56.0  1.067
+ 10 1.023   6  43.8 100.0  56.2  1.143
+ 11 0.831   5  43.7 100.0  56.3  1.042
+ 12 0.754   6  50.9 100.0  49.1  1.014
+ 13 0.870   5  42.1 100.0  57.9  1.073
+ 14 0.838   4  45.1 100.0  54.9  1.138
+ 15 0.878   6  50.5 100.0  49.5  1.137
+ 16 0.800   7  50.9 100.0  49.1  1.093
+ 17 0.814   5  47.2 100.0  52.8  1.069
+HELIOS_base coach: change player 1 to type 0
+HELIOS_base coach: change player 11 to type 10
+HELIOS_base coach: change player 2 to type 9
+HELIOS_base coach: change player 3 to type 1
+HELIOS_base coach: change player 10 to type 3
+HELIOS_base coach: change player 9 to type 5
+HELIOS_base coach: change player 6 to type 2
+HELIOS_base coach: change player 4 to type 8
+HELIOS_base coach: change player 5 to type 6
+HELIOS_base coach: change player 7 to type 13
+HELIOS_base coach: change player 8 to type 15
+HELIOS_base 6: ERROR: no intercept evaluator.
+HELIOS_base 2: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 7: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 7: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 7: ERROR: no intercept evaluator.
+HELIOS_base 7: ERROR: no intercept evaluator.
+HELIOS_base 7: ERROR: no intercept evaluator.
+HELIOS_base 7: ERROR: no intercept evaluator.
+HELIOS_base 7: ERROR: no intercept evaluator.
+HELIOS_base 7: ERROR: no intercept evaluator.
+HELIOS_base 7: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base coach: [301, 0] updated clang capacity.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.HELIOS_base
+ 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 7: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 7: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 7: ERROR: no intercept evaluator.
+HELIOS_base 7: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 7: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 7: ERROR: no intercept evaluator.
+HELIOS_base 7: ERROR: no intercept evaluator.
+HELIOS_base 7: ERROR: no intercept evaluator.
+HELIOS_base 7: ERROR: no intercept evaluator.
+HELIOS_base 7: ERROR: no intercept evaluator.
+HELIOS_base 7: ERROR: no intercept evaluator.
+HELIOS_base 7: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base coach: [601, 0] updated clang capacity.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base coach: [901, 0] updated clang capacity.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 7: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 7: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 7: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 7: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 7: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 7: ERROR: no intercept evaluator.
+HELIOS_base 7: ERROR: no intercept evaluator.
+HELIOS_base 7: ERROR: no intercept evaluator.
+HELIOS_base 7: ERROR: no intercept evaluator.
+HELIOS_base 7: ERROR: no intercept evaluator.
+HELIOS_base 7: ERROR: no intercept evaluator.
+HELIOS_base 7: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 7: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 7: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 7: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 7: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 7: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base coach: [1201, 0] updated clang capacity.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 7: ERROR: no intercept evaluator.
+HELIOS_base 7: ERROR: no intercept evaluator.
+HELIOS_base 7: ERROR: no intercept evaluator.
+HELIOS_base 7: ERROR: no intercept evaluator.
+HELIOS_base 7: ERROR: no intercept evaluator.
+HELIOS_base 7: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 7: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 7: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 7: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 7: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 7: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base coach: [1501, 0] updated clang capacity.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 7: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 7: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 7: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 7: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 7: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 7: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 7: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_baseHELIOS_base  1110: ERROR: no intercept evaluator.: ERROR: no intercept evaluator.
+
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_baseHELIOS_base  1110: ERROR: no intercept evaluator.: ERROR: no intercept evaluator.
+
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base coach: [1801, 0] updated clang capacity.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 7: ERROR: no intercept evaluator.
+HELIOS_base 7: ERROR: no intercept evaluator.
+HELIOS_base 7: ERROR: no intercept evaluator.
+HELIOS_base 7: ERROR: no intercept evaluator.
+HELIOS_base 7: ERROR: no intercept evaluator.
+HELIOS_base 7: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base coach: [2101, 0] updated clang capacity.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 7: ERROR: no intercept evaluator.
+HELIOS_base 7: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 7: ERROR: no intercept evaluator.
+HELIOS_base 7: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 7: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 7: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 7: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base coach: [2401, 0] updated clang capacity.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 7: ERROR: no intercept evaluator.
+HELIOS_base 7: ERROR: no intercept evaluator.
+HELIOS_base 7: ERROR: no intercept evaluator.
+HELIOS_base 7: ERROR: no intercept evaluator.
+HELIOS_base 7: ERROR: no intercept evaluator.
+HELIOS_base 7: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 7: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base HELIOS_base10: ERROR: no intercept evaluator. 
+7: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 7: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 7: ERROR: no intercept evaluator.
+HELIOS_base 7: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base coach: [2701, 0] updated clang capacity.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_baseHELIOS_base  1011: ERROR: no intercept evaluator.: ERROR: no intercept evaluator.
+
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base coach: [3001, 0] updated clang capacity.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_baseHELIOS_base  911: ERROR: no intercept evaluator.: ERROR: no intercept evaluator.
+
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base coach: [3301, 0] updated clang capacity.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base coach: [3601, 0] updated clang capacity.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11HELIOS_base: ERROR: no intercept evaluator. 
+8: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base coach: [3901, 0] updated clang capacity.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 7: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 7: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 7: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base coach: [4201, 0] updated clang capacity.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 7: ERROR: no intercept evaluator.
+HELIOS_base 7: ERROR: no intercept evaluator.
+HELIOS_base 7: ERROR: no intercept evaluator.
+HELIOS_base 7: ERROR: no intercept evaluator.
+HELIOS_base 7: ERROR: no intercept evaluator.
+HELIOS_base 7: ERROR: no intercept evaluator.
+HELIOS_base 7: ERROR: no intercept evaluator.
+HELIOS_base 7: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base coach: [4501, 0] updated clang capacity.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 7HELIOS_base: ERROR: no intercept evaluator. 
+9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 7: ERROR: no intercept evaluator.
+HELIOS_base 7: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 7: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 7: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base coach: [4801, 0] updated clang capacity.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base coach: [5101, 0] updated clang capacity.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.HELIOS_base
+ 8: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base coach: [5401, 0] updated clang capacity.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 10: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base coach: [5701, 0] updated clang capacity.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 9: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 8: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base 11: ERROR: no intercept evaluator.
+HELIOS_base coach: finished.
+HELIOS_base 11: finished.
+HELIOS_base 3: finished.
+HELIOS_base 7: finished.
+HELIOS_base 9: finished.
+HELIOS_base 5: finished.
+HELIOS_base 4: finished.
+HELIOS_base 8: finished.
+HELIOS_base 2: finished.
+HELIOS_base 10: finished.
+HELIOS_base 6: finished.
+HELIOS_base 1: finished.
