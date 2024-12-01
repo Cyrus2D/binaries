@@ -1,0 +1,268 @@
+{
+	"name" : "rc2023-442",
+	"hetero_priority" : [ 10,9,2,11,6,4,5,3,7,8 ],
+	"before_kick_off" : {
+		"offense" : [
+			{
+				"id" : "default",
+				"condition" : {
+					"begin_time" : 0,
+					"opponent_defense_type" : "*",
+					"score_type" : "*"
+				},
+				"evaluator" : "Default",
+				"formation" : [ "442-before-kick-off-rc2023.conf" ]
+			}
+		],
+		"defense" : [
+			{
+				"id" : "default",
+				"condition" : {
+					"begin_time" : 0,
+					"opponent_offense_type" : "*",
+					"score_type" : "*"
+				},
+				"mark" : [ 0,0,0,0,0,0,0,0,0,0,0 ],
+				"defense_line" : 3,
+				"formation" : [ "442-before-kick-off-rc2023.conf" ]
+			}
+		]
+	},
+	"play_on" : {
+		"offense" : [
+			{
+				"id" : "default",
+				"condition" : {
+					"begin_time" : 0,
+					"opponent_defense_type" : "*",
+					"score_type" : "*"
+				},
+				"evaluator" : "Default",
+				"formation" : [ "442-offense-rc2023.conf" ]
+			},
+			{
+				"id" : "mark",
+				"condition" : {
+					"begin_time" : 0,
+					"opponent_defense_type" : "mark",
+					"score_type" : "*"
+				},
+				"evaluator" : "Default",
+				"formation" : [ "442-offense-rc2023.conf" ]
+			},
+			{
+				"id" : "line",
+				"condition" : {
+					"begin_time" : 0,
+					"opponent_defense_type" : "line",
+					"score_type" : "*"
+				},
+				"evaluator" : "Default",
+				"formation" : [ "442-offense-rc2023.conf" ]
+			},
+			{
+				"id" : "wall",
+				"condition" : {
+					"begin_time" : 0,
+					"opponent_defense_type" : "wall",
+					"score_type" : "*"
+				},
+				"evaluator" : "Default",
+				"formation" : [ "442-offense-wallbreak-rc2023.conf" ]
+			}
+		],
+		"defense" : [
+			{
+				"id" : "default",
+				"condition" : {
+					"begin_time" : 0,
+					"opponent_offense_type" : "*",
+					"score_type" : "*"
+				},
+				"mark" : [ 0,0,1,1,1,0,1,1,1,0,0 ],
+				"defense_line" : 3,
+				"formation" : [ "442-defense-rc2023.conf" ]
+			},
+			{
+				"id" : "keepawaybreak",
+				"condition" : {
+					"begin_time" : 0,
+					"opponent_offense_type" : "keepaway",
+					"score_type" : "*"
+				},
+				"mark" : [ 0,1,1,1,1,1,1,1,1,1,1 ],
+				"defense_line" : 3,
+				"formation" : [ "442-defense-rc2023.conf" ]
+			}
+		]
+	},
+	"kick_in" : {
+		"offense" : [
+			{
+				"id" : "default",
+				"condition" : {
+					"begin_time" : 0,
+					"opponent_defense_type" : "*",
+					"score_type" : "*"
+				},
+				"evaluator" : "Default",
+				"formation" : [ "442-kickin-our-1st-rc2023.conf",
+								"442-kickin-our-2nd-rc2023.conf" ]
+			}
+		],
+		"defense" : [
+			{
+				"id" : "default",
+				"condition" : {
+					"begin_time" : 0,
+					"opponent_offense_type" : "*",
+					"score_type" : "*"
+				},
+				"mark" : [ 0,0,1,1,1,1,1,1,1,1,1 ],
+				"defense_line" : 3,
+				"formation" : [ "442-setplay-opp-rc2023.conf" ]
+			}
+		]
+	},
+	"corner_kick" : {
+		"offense" : [
+			{
+				"id" : "default",
+				"condition" : {
+					"begin_time" : 0,
+					"opponent_defense_type" : "*",
+					"score_type" : "*"
+				},
+				"evaluator" : "Default",
+				"formation" : [ "442-kickin-our-1st-rc2023.conf",
+								"442-kickin-our-2nd-rc2023.conf" ]
+			}
+		],
+		"defense" : [
+			{
+				"id" : "default",
+				"condition" : {
+					"begin_time" : 0,
+					"opponent_offense_type" : "*",
+					"score_type" : "*"
+				},
+				"mark" : [ 0,0,1,1,1,1,1,1,1,1,1 ],
+				"defense_line" : 3,
+				"formation" : [ "442-setplay-opp-rc2023.conf" ]
+			}
+		]
+	},
+	"goal_kick" : {
+		"offense" : [
+			{
+				"id" : "default",
+				"condition" : {
+					"begin_time" : 0,
+					"opponent_defense_type" : "*",
+					"score_type" : "*"
+				},
+				"evaluator" : "Default",
+				"formation" : [ "442-goalkick-our-1st-rc2023.conf",
+								"442-goalkick-our-2nd-rc2023.conf" ]
+			}
+		],
+		"defense" : [
+			{
+				"id" : "default",
+				"condition" : {
+					"begin_time" : 0,
+					"opponent_offense_type" : "*",
+					"score_type" : "*"
+				},
+				"mark" : [ 0,0,1,1,1,1,1,1,1,1,1 ],
+				"defense_line" : 3,
+				"formation" : [ "442-goalkick-opp-rc2023.conf" ]
+			}
+
+		]
+	},
+	"goalie_catch" : {
+		"offense" : [
+			{
+				"id" : "default",
+				"condition" : {
+					"begin_time" : 0,
+					"opponent_defense_type" : "*",
+					"score_type" : "*"
+				},
+				"evaluator" : "Default",
+				"formation" : [ "442-goalie-catch-our-rc2023.conf",
+								"442-goalie-catch-our-rc2023.conf" ]
+			}
+		],
+		"defense" : [
+			{
+				"id" : "default",
+				"condition" : {
+					"begin_time" : 0,
+					"opponent_offense_type" : "*",
+					"score_type" : "*"
+				},
+				"mark" : [ 0,0,1,1,1,1,1,1,1,1,1 ],
+				"defense_line" : 3,
+				"formation" : [ "442-goalie-catch-opp-rc2023.conf" ]
+			}
+		]
+	},
+	"indirect_freekick" : {
+		"offense" : [
+			{
+				"id" : "default",
+				"condition" : {
+					"begin_time" : 0,
+					"opponent_defense_type" : "*",
+					"score_type" : "*"
+				},
+				"evaluator" : "Default",
+				"formation" : [ "442-indirect-freekick-our-rc2023.conf",
+								"442-indirect-freekick-our-rc2023.conf" ]
+			}
+		],
+		"defense" : [
+			{
+				"id" : "default",
+				"condition" : {
+					"begin_time" : 0,
+					"opponent_offense_type" : "*",
+					"score_type" : "*"
+				},
+				"mark" : [ 0,0,1,1,1,1,1,1,1,1,1 ],
+				"defense_line" : 3,
+				"formation" : [ "442-indirect-freekick-opp-rc2023.conf" ]
+			}
+		]
+	},
+	"freekick" : {
+		"offense" : [
+			{
+				"id" : "default",
+				"condition" : {
+					"begin_time" : 0,
+					"opponent_defense_type" : "*",
+					"score_type" : "*"
+				},
+				"evaluator" : "Default",
+				"formation" : [ "442-setplay-our-rc2023.conf",
+								"442-setplay-our-rc2023.conf" ]
+			}
+		],
+		"defense" : [
+			{
+				"id" : "default",
+				"condition" : {
+					"begin_time" : 0,
+					"opponent_offense_type" : "*",
+					"score_type" : "*"
+				},
+				"mark" : [ 0,0,1,1,1,1,1,1,1,1,1 ],
+				"defense_line" : 3,
+				"formation" : [ "442-setplay-opp-rc2023.conf" ]
+			}
+		]
+	}
+}
